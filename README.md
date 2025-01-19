@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&fontAlign=40&fontAlignY=40&color=gradient&height=150&section=header&text=welcome%20kongs%20github&fontSize=50&animation=fadeIn)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ambient_gradient)
+![yebinnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ambient_gradient)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ye2000bin)](https://solved.ac/ye2000bin)
 </div>
 <br>
 
