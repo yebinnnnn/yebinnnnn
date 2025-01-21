@@ -6,6 +6,10 @@
 ![yebinnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yebinnnnn&show_icons=true&theme=ambient_gradient)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ye2000bin)](https://solved.ac/ye2000bin)
+
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yebinnnnn&layout=compact&theme=dracula&hide_border=true" /></a>
+
+
 </div>
 <br>
 
