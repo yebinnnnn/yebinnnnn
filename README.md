@@ -16,16 +16,27 @@
 <h3 align="center">🛠 Stacks 🛠</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-F05033.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Java-F05033.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp;
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/spring-83BB1A.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/AWS-F05033.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Django-F3F3F3.svg?style=for-the-badge&logo=django&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL-20A6C9.svg?style=for-the-badge&logo=mysql&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+</div>
+
+<br>
+
+<h3 align="center">☁️ AWS Services ☁️</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp;
 </div>
 
 <br>
@@ -33,17 +44,18 @@
 <h3 align="center">🛠 Tools 🛠</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/slack-FF6441.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-A100FF.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
 </div>
 
 </br>
+
 
 
 
