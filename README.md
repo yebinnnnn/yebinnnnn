@@ -14,7 +14,6 @@
 
 </div>
 <br>
-
 <h3 align="center">🛠 Stacks 🛠</h3>
 
 <div align="center">
@@ -23,6 +22,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp;
 </div>
 
 <div align="center">
@@ -33,12 +33,14 @@
 
 <br>
 
-<h3 align="center">☁️ AWS Services ☁️</h3>
+<h3 align="center">☁️ AWS Services & DevOps ☁️</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
 </div>
 
 <br>
@@ -49,12 +51,10 @@
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
-</div>
 
 </br>
 
